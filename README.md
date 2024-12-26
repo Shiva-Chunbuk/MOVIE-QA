@@ -74,6 +74,3 @@ Response: Inside Out is a better choice for a young daughter.
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and ideas are highly appreciated!
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
